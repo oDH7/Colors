@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
 
   header: {
     backgroundColor: "black",
-    height: 200,
+    height: 150,
   },
   body: {
     margin: 10,
@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
   },
 
   footer: {
-    height: 200,
+    height: 150,
     backgroundColor: "black",
   },
 
